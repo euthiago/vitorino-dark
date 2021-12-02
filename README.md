@@ -1,13 +1,22 @@
-# README
-## This is the README for your extension "vitorino-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Vitorino Dark
+
+## A theme for serious coders
+
+Key features:
+
+* Remarkable legilibility. 
+* No distractions. 
+* Guides your visual perception for faster language syntax recognition. 
+* Reduces eye stress. 
+* Minimal usage of blue light to respect your sleep health. 
+* Pleasant coding experience. 
+
+Remember: Excelence is a habit. Even a VSCode theme mey inspire and help constantly remember to do things in the most awesome way.
+
+
+### Suggestions?
+* https://github.com/euthiago/vitorino-dark
 
 **Enjoy!**
