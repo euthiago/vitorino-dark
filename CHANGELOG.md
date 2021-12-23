@@ -8,8 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Better visibility for find matches
 - List/tree drop background more clear
 - List/tree active by keyboard more clear and visually consistent
-- Improve input selection visibility
+- Improved input selection visibility
+- VUE source tags support
+- Improved html tag visibility
+- HTML(VUE/JSX?) Tags that represent components now share the same color as other tags
 
 ## [Unreleased]
 
-- More visible innerHTML in HTML
+
