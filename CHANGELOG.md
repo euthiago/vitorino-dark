@@ -5,6 +5,7 @@ All notable changes to the "vitorino-dark" extension will be documented in this 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 - JSON file name typo correction
+- Better visibility for find matches
 
 ## [Unreleased]
 
