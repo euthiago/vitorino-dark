@@ -2,14 +2,14 @@
     "name": "vitorino-dark",
     "displayName": "Vitorino Dark",
     "description": "Remarkable legilibility. Pleasant coding experience. No distractions. Guides your visual perception for faster language syntax recognition. Reduces eye stress. Minimal usage of blue light to respect your sleep health. From a coder to another. Excelence is a habit.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
     ],
-	"publisher": "vitorino",
+    "publisher": "vitorino",
     "contributes": {
         "themes": [
             {
