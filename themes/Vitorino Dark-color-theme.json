@@ -1931,7 +1931,7 @@
 	  "editor.findMatchBackground": "#6f4f1393",
 	  "editor.findMatchBorder": "#775a2200",
 	  "editor.findMatchHighlightBackground": "#f2a81a04",
-	  "editor.findMatchHighlightBorder": "#f2a81a04",
+	  "editor.findMatchHighlightBorder": "#f2a81aa1",
 	  "editor.findRangeHighlightBackground": "#f2a81a00",
 	  "editor.findRangeHighlightBorder": "#f2a81a00",
 	  "editor.rangeHighlightBackground": "#ffa80010",
