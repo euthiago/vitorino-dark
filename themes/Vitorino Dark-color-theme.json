@@ -708,14 +708,14 @@
 		"name": "Support type",
 		"scope": "support.type.property-name",
 		"settings": {
-		  "foreground": "#ffda9093"
+		  "foreground": "#ffecc7b2"
 		}
 	  },
 	  {
 		"name": "Support type",
 		"scope": "support.constant.property-value",
 		"settings": {
-		  "foreground": "#ffda9093"
+		  "foreground": "#ffecc7b2"
 		}
 	  },
 	  {
@@ -1847,7 +1847,7 @@
 	"colors": {
 	  "foreground": "#a3a3a3",
 	  "focusBorder": "#826a5c00",
-	  "selection.background": "#3d3a38",
+	  "selection.background": "#1a1817",
 	  "scrollbar.shadow": "#c04b0700",
 	  "activityBar.foreground": "#f2a81a",
 	  "activityBar.background": "#242220",
@@ -1919,7 +1919,7 @@
 	  "input.placeholderForeground": "#a6a6a6",
 	  "textLink.foreground": "#6feee2",
 	  "editor.background": "#1e1e1e",
-	  "editor.foreground": "#ffda9093",
+	  "editor.foreground": "#fff1d68a",
 	  "editorLineNumber.foreground": "#858585",
 	  "editorCursor.foreground": "#f2a81ad5",
 	  "editorCursor.background": "#000000",
