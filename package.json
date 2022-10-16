@@ -4,6 +4,7 @@
     "description": "Remarkable legilibility. Pleasant coding experience. No distractions. Guides your visual perception for faster language syntax recognition. Reduces eye stress. Minimal usage of blue light to respect your sleep health. From a coder to another. Excelence is a habit.",
     "version": "1.1.0",
 	"icon": "images/vitorino-dark.png",
+	"repository": "https://github.com/euthiago/vitorino-dark",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -11,6 +12,7 @@
         "Themes"
     ],
     "publisher": "vitorino",
+	"author": "Thiago Vitorino",
     "contributes": {
         "themes": [
             {
