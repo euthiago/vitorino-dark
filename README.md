@@ -13,7 +13,7 @@ Key features:
 * Minimal usage of blue light to respect your sleep health. 
 * Pleasant coding experience. 
 
-Remember: Excelence is a habit. Even a VSCode theme mey inspire and help constantly remember to do things in the most awesome way.
+Remember: Excelence is a habit. Even a VSCode theme may inspire us and constantly help put ourselves in a similar state of mind of those who do things in the most awesome way.
 
 
 ### Suggestions?

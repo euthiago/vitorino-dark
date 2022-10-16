@@ -6,6 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 Current:
+- Less intrusive CodeLens hint text
+- Improved support for Automatic Type Annotations
 - Improved constrast for baseline foreground color 
 - Improved harmonization of the main colors
 - Advanced colorization for Rust lifetimes
